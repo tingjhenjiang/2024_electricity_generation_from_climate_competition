@@ -1,0 +1,3 @@
+[submodule "granite_tsfm"]
+	path = granite_tsfm
+	url = https://github.com/ibm-granite/granite-tsfm.git
