@@ -1,0 +1,2 @@
+# 2024_electricity_generation_from_climate_competition
+2024教育部根據區域微氣候資料預測發電量競賽
